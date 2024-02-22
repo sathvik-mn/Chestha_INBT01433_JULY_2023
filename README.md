@@ -1,4 +1,4 @@
-# Chestha_INBT01433_JULY_2023
+# Practice projects
 
 ## Task 1 :
  	Implement a Machine Learning Model for Classification Problem
@@ -49,7 +49,7 @@ Is: Cumulated hours of snow
 Ir: Cumulated hours of rain
 
 
-## Task 3 : Major Internship Project
+## Task 3 : Major Project
 Predictive Analysis and Customer Segmentation for an E-Commerce Platform
 
 3.1 Project Overview 
